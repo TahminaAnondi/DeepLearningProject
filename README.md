@@ -4,6 +4,7 @@
 1. [Project Overview](#project-overview)
 2. [Installation Instructions](#installation-instructions)
 3. [Running the Script](#running-the-script)
+4. [Project Report](#project-report)
 
 ## Project Overview
 Lung cancer is recognized as being one of the leading causes of death worldwide, and air pollution has been identified as a major contributor to its emergence. A study that was conducted in 2023 by the Journal of Thoracic Oncology revealed that air pollution was a pronounced contributor to lung cancer, with an estimated 30% increase in deaths (Berg et al., 2023). Although prior research has been conducted, there are significant gaps within the availability of data, types of data, and spatial vulnerability. 
@@ -45,3 +46,5 @@ We’ve implemented several deep learning methods to predict and display the ris
 # Code snippet
  %run 'predicting_the_future_risk_for_lung_cancer_in_louisiana_based_on_airpollution(pm2_5).py'
 ```
+## Project Report
+https://github.com/TahminaAnondi/DeepLearningProject/blob/70b1d9d2ff7def9202e5e1ca651ee7fbbb0907d5/Deep%20Learning%20Project%20Report%20469-669%20-%20Google%20Docs.pdf
