@@ -6,4 +6,4 @@ This project aims to predict the future risk for lung cancer in Louisiana based 
 ## Installation Instructions
 1. Clone the GitHub repository:
    
-"!git clone https://github.com/TahminaAnondi/DeepLearningProject.git"
+ '!git clone https://github.com/TahminaAnondi/DeepLearningProject.git'
